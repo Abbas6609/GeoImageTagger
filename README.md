@@ -20,7 +20,7 @@
 
 | Tool | Description | Link |
 |---|---|---|
-| 🏷️ **AI Image Tagger** | AI-powered tag, title & description generation using Google Gemini | [Open →](https://geoimagetagger.com) |
+| 🏷️ **AI Image Tagger** | AI-powered tag, title & description generation using AI | [Open →](https://geoimagetagger.com) |
 | 🔍 **Metadata Viewer** | Inspect all EXIF, IPTC, XMP & GPS data in any image | [Open →](https://geoimagetagger.com/tools/metadata-viewer) |
 | 📦 **Image Compressor** | Reduce file size with visual before/after comparison | [Open →](https://geoimagetagger.com/tools/image-compressor) |
 | 🔄 **Image Converter** | Convert between JPEG, PNG, WebP, HEIC, AVIF formats | [Open →](https://geoimagetagger.com/tools/image-converter) |
@@ -30,7 +30,7 @@
 
 ## ✨ Key Features
 
-- **AI-Powered Analysis** — Google Gemini generates SEO-ready tags, titles, and descriptions from image content
+- **AI-Powered Analysis** — AI generates SEO-ready tags, titles, and descriptions from image content
 - **GPS Geotagging** — Embed GPS coordinates using interactive Mapbox satellite map
 - **Full Metadata Editing** — EXIF, IPTC, and XMP standards supported with in-browser writing
 - **AI Photo Location Finder** — Upload any photo and AI predicts where it was taken with confidence scoring
@@ -63,7 +63,7 @@
 |---|---|
 | **Next.js 15** | React framework with App Router |
 | **TypeScript** | Type-safe development |
-| **Google Gemini AI** | Image analysis & tag generation |
+| **Artificial Intelliegence** | Image analysis & tag generation |
 | **Mapbox GL JS** | Interactive satellite maps for geotagging |
 | **Google Cloud Run** | Serverless deployment |
 | **Supabase** | Authentication & database |
