@@ -85,6 +85,7 @@
 - [How to Geotag Photos for SEO & Local Businesses](https://geoimagetagger.com/blog/how-to-geotag-photos-for-seo-local-businesses-and-photographers)
 - [Understanding Image Metadata: EXIF, IPTC, XMP & GPS](https://geoimagetagger.com/blog/understanding-image-metadata-exif-iptc-xmp-gps-data)
 - [Does Geotagging Photos Actually Help SEO?](https://geoimagetagger.com/blog/does-geotagging-photos-help-seo)
+- [How to Find Where a Photo Was Taken: 4 Methods That Actually Work](https://geoimagetagger.com/blog/how-to-find-where-photo-was-taken)
 
 ## 🔗 Connect
 
