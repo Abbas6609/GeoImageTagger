@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@GeoImageTagger-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/GeoImageTagger)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GeoImageTagger-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/geoimagetagger/)
 
-**AI-powered image geotagging, metadata editing, and photo location detection — 7 free browser-based tools.**
+**AI-powered image geotagging, metadata editing, and photo location detection — 9 free browser-based tools.**
 
 [Open App →](https://geoimagetagger.com) · [Blog](https://geoimagetagger.com/blog) · [All Tools](https://geoimagetagger.com/tools)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ 7 Free Online Tools
+## 🛠️ 9 Free Online Tools
 
 | Tool | Description | Link |
 |---|---|---|
@@ -27,6 +27,8 @@
 | 🧹 **EXIF Remover** | Strip all metadata from photos for privacy protection | [Open →](https://geoimagetagger.com/tools/exif-remover) |
 | ✏️ **Metadata Editor** | Edit EXIF, IPTC, XMP fields directly in-browser | [Open →](https://geoimagetagger.com/tools/metadata-editor) |
 | 📍 **AI Location Finder** | AI analyzes a photo to predict where it was taken | [Open →](https://geoimagetagger.com/tools/location-finder) |
+| 💧 **Watermark Tool** | Add text, signature, logo, or date watermarks to images & PDFs | [Open →](https://geoimagetagger.com/tools/watermark) |
+| 🎨 **Image Editor** | Crop, resize, rotate, flip, and adjust images in-browser | [Open →](https://geoimagetagger.com/tools/image-editor) |
 
 ## ✨ Key Features
 
