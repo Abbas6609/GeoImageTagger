@@ -87,6 +87,7 @@
 - [Does Geotagging Photos Actually Help SEO?](https://geoimagetagger.com/blog/does-geotagging-photos-help-seo)
 - [How to Find Where a Photo Was Taken: 4 Methods That Actually Work](https://geoimagetagger.com/blog/how-to-find-where-photo-was-taken)
 - [Best GeoImgr Alternative: Free AI Photo Geotagging Tool in 2026](https://geoimagetagger.com/blog/best-geoimgr-alternative)
+- [How to Remove EXIF Data from Photos: A Practical Privacy Guide](https://geoimagetagger.com/blog/how-to-remove-exif-data-from-photos)
 
 ## 🔗 Connect
 
