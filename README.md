@@ -90,6 +90,7 @@
 - [How to Remove EXIF Data from Photos: A Practical Privacy Guide](https://geoimagetagger.com/blog/how-to-remove-exif-data-from-photos)
 - [How to Optimize Images for Website Speed and SEO](https://geoimagetagger.com/blog/how-to-optimize-images-for-website-speed-and-seo)
 - [How to Protect Your Photos from Theft and Misuse Online](https://geoimagetagger.com/blog/how-to-protect-photos-from-theft-online)
+- [How to Read and Edit Image Metadata: EXIF, IPTC, and XMP Explained](https://geoimagetagger.com/blog/how-to-read-and-edit-image-metadata)
 
 ## 🔗 Connect
 
