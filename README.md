@@ -92,6 +92,7 @@
 - [How to Protect Your Photos from Theft and Misuse Online](https://geoimagetagger.com/blog/how-to-protect-photos-from-theft-online)
 - [How to Read and Edit Image Metadata: EXIF, IPTC, and XMP Explained](https://geoimagetagger.com/blog/how-to-read-and-edit-image-metadata)
 - [Best AI Photo Location Finder Tools in 2026: Free & Paid Options Compared](https://geoimagetagger.com/blog/best-ai-photo-location-finder-tools)
+- [How to Check If a Photo Is Geotagged: Find GPS Location in EXIF Metadata](https://geoimagetagger.com/blog/how-to-check-if-photo-is-geotagged)
 
 ## 🔗 Connect
 
