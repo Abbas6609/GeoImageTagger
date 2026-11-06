@@ -93,6 +93,7 @@
 - [How to Read and Edit Image Metadata: EXIF, IPTC, and XMP Explained](https://geoimagetagger.com/blog/how-to-read-and-edit-image-metadata)
 - [Best AI Photo Location Finder Tools in 2026: Free & Paid Options Compared](https://geoimagetagger.com/blog/best-ai-photo-location-finder-tools)
 - [How to Check If a Photo Is Geotagged: Find GPS Location in EXIF Metadata](https://geoimagetagger.com/blog/how-to-check-if-photo-is-geotagged)
+- [How to Add a Watermark to Photos and PDFs Online: Text, Logo, Signature & Hidden Watermarks](https://geoimagetagger.com/blog/how-to-add-watermark-to-photos-pdfs-online)
 
 ## 🔗 Connect
 
