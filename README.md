@@ -81,7 +81,7 @@
 
 ## 📝 Blog & Resources
 
-- [Image Tagging for SEO: How to Boost Rankings](https://geoimagetagger.com/blog/image-tagging-seo-success)
+- [Image Tagging for SEO: Alt Text, File Names, Metadata & Best Practices](https://geoimagetagger.com/blog/image-tagging-seo-success)
 - [How to Geotag Photos for SEO & Local Businesses](https://geoimagetagger.com/blog/how-to-geotag-photos-for-seo-local-businesses-and-photographers)
 - [Understanding Image Metadata: EXIF, IPTC, XMP & GPS](https://geoimagetagger.com/blog/understanding-image-metadata-exif-iptc-xmp-gps-data)
 - [Does Geotagging Photos Actually Help SEO?](https://geoimagetagger.com/blog/does-geotagging-photos-help-seo)
