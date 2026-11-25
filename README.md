@@ -96,6 +96,7 @@
 - [How to Add a Watermark to Photos and PDFs Online: Text, Logo, Signature & Hidden Watermarks](https://geoimagetagger.com/blog/how-to-add-watermark-to-photos-pdfs-online)
 - [How to Remove a Background from an Image Online for Free](https://geoimagetagger.com/blog/how-to-remove-background-from-image-online-free)
 - [How to Compress Images Without Losing EXIF, GPS, IPTC or XMP Metadata](https://geoimagetagger.com/blog/compress-images-without-losing-metadata)
+- [How to Convert HEIC, JPG, PNG and WebP Without Losing Image Metadata](https://geoimagetagger.com/blog/convert-images-without-losing-metadata)
 
 ## 🔗 Connect
 
